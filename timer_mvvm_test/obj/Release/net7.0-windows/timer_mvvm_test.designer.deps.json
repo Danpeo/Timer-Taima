@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AsyncAwaitBestPractices/6.0.6": {
+        "runtime": {
+          "lib/net7.0/AsyncAwaitBestPractices.dll": {
+            "assemblyVersion": "6.0.5.0",
+            "fileVersion": "6.0.5.0"
+          }
+        }
+      },
+      "AsyncAwaitBestPractices.MVVM/6.0.6": {
+        "dependencies": {
+          "AsyncAwaitBestPractices": "6.0.6"
+        },
+        "runtime": {
+          "lib/net7.0/AsyncAwaitBestPractices.MVVM.dll": {
+            "assemblyVersion": "6.0.5.0",
+            "fileVersion": "6.0.5.0"
+          }
+        }
+      },
+      "Hardcodet.NotifyIcon.Wpf/1.1.0": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Hardcodet.NotifyIcon.Wpf.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.17"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsyncAwaitBestPractices/6.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5JwyXsa0357gUCfrm741ae10LuWRl/V3JmBLL/7ddTeyA0ajWm4Ze+WCzweSzz2Pd8MT6T9PDVNK8pjZ9ezt6A==",
+      "path": "asyncawaitbestpractices/6.0.6",
+      "hashPath": "asyncawaitbestpractices.6.0.6.nupkg.sha512"
+    },
+    "AsyncAwaitBestPractices.MVVM/6.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0K2hFZq3RLeAI9VaxkyQbvS6SDx09fl8S9zsJSOBP01/bljj7Ij5fFUQIvqC+hbJrVCHi4AnvfSLfxXf0kLRIA==",
+      "path": "asyncawaitbestpractices.mvvm/6.0.6",
+      "hashPath": "asyncawaitbestpractices.mvvm.6.0.6.nupkg.sha512"
+    },
+    "Hardcodet.NotifyIcon.Wpf/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FFEkdRSidMrbMfQVwhCzq6KtSyR1qQojqtiUrkCyjnOOuMf7W3TNQkzFnBBxYxFe7uLk5mz7M38wFh1qdWyfvg==",
+      "path": "hardcodet.notifyicon.wpf/1.1.0",
+      "hashPath": "hardcodet.notifyicon.wpf.1.1.0.nupkg.sha512"
+    }
+  }
+}

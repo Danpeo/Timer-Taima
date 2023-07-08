@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MpXt+jo9v1+6aIEiZe0+HhxnBK0BeqTVjj8lT7NFkr5xUcHXeJiMS+7ke8zituqwWJRHD+Jm6YnUwXdcGryIZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\source\\repos\\timer_mvvm_test\\timer_mvvm_test\\timer_mvvm_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\asyncawaitbestpractices\\6.0.6\\asyncawaitbestpractices.6.0.6.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\asyncawaitbestpractices.mvvm\\6.0.6\\asyncawaitbestpractices.mvvm.6.0.6.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\hardcodet.notifyicon.wpf\\1.1.0\\hardcodet.notifyicon.wpf.1.1.0.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.28\\microsoft.windows.sdk.net.ref.10.0.17763.28.nupkg.sha512"
+  ],
+  "logs": []
+}
